@@ -1,4 +1,14 @@
-### Hi there 👋
+### Nurture Nature
+
+```
+@spec work :: list
+def work do
+  ["🧠", "🫀", "💪"]
+  |> Enum.map(fn attr ->
+    {"👍", "🧪 + " <> attr}
+  end)
+end
+```
 
 <!--
 **nurturenature/nurturenature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
