@@ -1,6 +1,6 @@
 ### Nurture Nature
 
-```
+```elixir
 @spec work :: list
 def work do
   ["🧠", "🫀", "💪"]
