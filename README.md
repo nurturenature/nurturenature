@@ -1,26 +1,9 @@
 ### Nurture Nature
 
-```elixir
-@spec work :: list
-def work do
-  ["🧠", "🫀", "💪"]
-  |> Enum.map(fn attr ->
-    {"👍", "🧪 + " <> attr}
-  end)
-end
-```
+Taking a deep dive into Causal Consistency, with Atomic Transactions, and Strong Convergence.
 
-<!--
-**nurturenature/nurturenature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A consistency model highly suited for local first:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- total availability
+- easy for developers to reason about
+- no surprises for the user
