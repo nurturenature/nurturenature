@@ -10,11 +10,12 @@ A consistency model highly suited for local first:
 
 ----
 
-### There's Just Something About Jepsen
+### There's Just Something About [Jepsen](https://github.com/jepsen-io/jepsen)
 
-Tests the real system with real faults.
-No mocks, simulations, maps that are close but not quite the territory.
+Tests the *real* system with *real* faults.
 
-Demonstrated to work, it's found significant bugs in a wide variety of systems.
+No mocks, simulations, or maps that are close, but not quite the territory.
 
-Its libraries of techniques and strategies have evolved over time by finding ways to break actual in use code.
+Demonstrated to work, [it's found](https://jepsen.io/analyses) significant bugs in a wide variety of systems.
+
+Its libraries of techniques and strategies have evolved over time by finding ways to break actual code in wide use.
