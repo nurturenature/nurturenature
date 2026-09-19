@@ -15,6 +15,6 @@ A consistency model highly suited for local first:
 Tests the real system with real faults.
 No mocks, simulations, maps that are close but not quite the territory.
 
-Demonstrated to work, its found significant bugs in a wide variety of systems.
+Demonstrated to work, it's found significant bugs in a wide variety of systems.
 
 Its libraries of techniques and strategies have evolved over time by finding ways to break actual in use code.
