@@ -8,6 +8,8 @@ A consistency model highly suited for local first:
 - easy for developers to reason about
 - no surprises for the user
 
+----
+
 ### There's Just Something About Jepsen
 
 Tests the real system with real faults.
